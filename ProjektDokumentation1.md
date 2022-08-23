@@ -24,17 +24,15 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 4    |'muss'           |Rand    | Als Spieler möchte ich, dass das Programm eine Rückmeldung gibt, ob meine Zahl zu hoch oder zu tief ist.|
 | 5    |'muss'           |Funktion| Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
 
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 2.1  |              |         |                   |
-| 3.1  |              |         |                   |
-| 4.1  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  |Das Programm gibt keine Rückmeldung, ob die Zahl richtig oder falsch ist.|Der Spieler gibt eine Zahl ein und drückt enter.|Die Zahl ist richtig oder Falsch|
+| 2.1  |Das Programm endet das Spiel nachdem der Spieler eine Zahl eingegeben hat, egal ob richtig oder falsch.|Der Spieler gibt eine falsche Zahl ein und drückt enter|Das Programm erkennt die falsche Zahl und gibt dem Spieler eine weitere Chance|
+| 3.1  |Der Zahlenbereich ist fest bei 1-100|Sobald das Programm startet muss der Spieler einen Zahlenbereich eingeben im Stil x - y|Das Programm passt sich an den neuen Zahlenbereich an.|
+| 4.1  |Das Programm gibt nur an ob die eingegebene Zahl richtig oder falsch ist an|Der Spieler gibt eine falsche Zahl an und drückt enter|Das Programm prüft ob die eingegebene Zahl oberhalb oder unterhalb der generierten Zahl ist und gibt dazu eine Rückmeldung|
+| 5.1  |Das Programm stürzt ab|Der Spieler gibt Buchstaben ins programm ein|Das Programm erkennt dies und gibt eine Fehlermeldung beim Spieler ab.|
 
 ### 1.4 Diagramme
 
@@ -53,8 +51,6 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 5.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Fehlermeldung Ausgeben, in der steht, dass man keine Buchstaben eingeben soll.|60'|
  
 Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
