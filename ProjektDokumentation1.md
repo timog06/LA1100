@@ -54,6 +54,9 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 6.A  |30.08.2022|Timo Goedertier| Das Programm fragt den Spieler nach beenden der Runde, ob dieser noch eine Runde spielen möchte.|45'|
  
 Total: 
+`2` ╳ `1` ╳ `4` = 8 Arbeitspakete
+8 Arbeitspakete sind 6h
+-> Ich habe 5h15
 
 ✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
