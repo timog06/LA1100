@@ -23,6 +23,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 3    |'muss'           |Rand    | Als Spieler möchte ich den Zahlenbereich verändern können. 
 | 4    |'muss'           |Rand    | Als Spieler möchte ich, dass das Programm eine Rückmeldung gibt, ob meine Zahl zu hoch oder zu tief ist.|
 | 5    |'muss'           |Funktion| Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
+| 6    |'muss'           |Rand    | Als Spieler möchte ich gefragt werden, ob ich noch eine Runde Spielen möchte.|
 
 ### 1.3 Testfälle
 
@@ -32,7 +33,8 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 2.1  |Das Programm endet das Spiel nachdem der Spieler eine Zahl eingegeben hat, egal ob richtig oder falsch.|Der Spieler gibt eine falsche Zahl ein und drückt enter|Das Programm erkennt die falsche Zahl und gibt dem Spieler eine weitere Chance|
 | 3.1  |Der Zahlenbereich ist fest bei 1-100|Sobald das Programm startet muss der Spieler einen Zahlenbereich eingeben im Stil x - y|Das Programm passt sich an den neuen Zahlenbereich an.|
 | 4.1  |Das Programm gibt nur an ob die eingegebene Zahl richtig oder falsch ist an|Der Spieler gibt eine falsche Zahl an und drückt enter|Das Programm prüft ob die eingegebene Zahl oberhalb oder unterhalb der generierten Zahl ist und gibt dazu eine Rückmeldung|
-| 5.1  |Das Programm stürzt ab|Der Spieler gibt Buchstaben ins programm ein|Das Programm erkennt dies und gibt eine Fehlermeldung beim Spieler ab.|
+| 5.1  |Das Programm stürzt ab|Der Spieler gibt Buchstaben ins programm ein|Das Programm erkennt dies und gibt eine Fehlermeldung beim Spieler ab.|gibt eine Rückmeldung zur richtigen Zahl ab und fragt den Spieler ob dieser noch eine Runde Spielen möchte.
+| 6.1  |Das Programm endet sobald der Spieler die richtige Zahl eingegeben hat.|Der Spieler gibt die richtige Zahl ein und drückt enter|Das Programm |
 
 ### 1.4 Diagramme
 
@@ -49,6 +51,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 3.A  |30.08.2022|Timo Goedertier| Der Spieler kann einen Zahlenbereich selber auswählen| 60' |
 | 4.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Rückmeldung geben, ob die Zahl des Spielers zu hoch oder zu tief ist.|45'|
 | 5.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Fehlermeldung Ausgeben, in der steht, dass man keine Buchstaben eingeben soll.|60'|
+| 6.A  |30.08.2022|Timo Goedertier| Das Programm fragt den Spieler nach beenden der Runde, ob dieser noch eine Runde spielen möchte.|45'|
  
 Total: 
 
