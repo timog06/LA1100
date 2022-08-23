@@ -37,7 +37,8 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 
 ### 1.4 Diagramme
 
-![image](https://user-images.githubusercontent.com/110891995/186102024-870114e6-87e6-4567-8602-202ca137ce01.png)
+![image](https://user-images.githubusercontent.com/110891995/186114469-ca121daf-4013-4dfc-82f9-98bb753c76b5.png)
+
 
 ## 2 Planen
 
