@@ -22,7 +22,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 2    |'muss'           |Funktion| Als Spieler möchte ich mehrere Chancen bekommen, wenn meine Zahl falsch ist, damit es nicht immer eine neue Zahl generiert.|
 | 3    |'muss'           |Rand    | Als Spieler möchte ich den Zahlenbereich verändern können. |
 | 4    |'kann'           |Qualität| Die UI muss schön aussehen.      |
-
+| 5    |'muss'           |Rand    | Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
