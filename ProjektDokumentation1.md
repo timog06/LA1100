@@ -18,8 +18,10 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |'muss'           |Funktion| Als Spieler möchte ich wissen, ob meine Zahl die richtige Zahl ist.|
+| 2    |'muss'           |Funktion| Als Spieler möchte ich mehrere Chancen bekommen, wenn meine Zahl falsch ist, damit es nicht immer eine neue Zahl generiert.|
+| 3    |'muss'           |Funktion| Als Spieler möchte ich den Zahlenbereich verändern können. |
+| 4    |'kann'           |Qualität| Die UI muss schön aussehen.      |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
