@@ -20,7 +20,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |'muss'           |Funktion| Als Spieler möchte ich wissen, ob meine Zahl die richtige Zahl ist.|
 | 2    |'muss'           |Funktion| Als Spieler möchte ich mehrere Chancen bekommen, wenn meine Zahl falsch ist, damit es nicht immer eine neue Zahl generiert.|
-| 3    |'muss'           |Funktion| Als Spieler möchte ich den Zahlenbereich verändern können. |
+| 3    |'muss'           |Rand    | Als Spieler möchte ich den Zahlenbereich verändern können. |
 | 4    |'kann'           |Qualität| Die UI muss schön aussehen.      |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -30,7 +30,9 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 2.1  |              |         |                   |
+| 3.1  |              |         |                   |
+| 4.1  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
