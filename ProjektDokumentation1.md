@@ -34,7 +34,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://user-images.githubusercontent.com/110891995/186102024-870114e6-87e6-4567-8602-202ca137ce01.png)
 
 ## 2 Planen
 
