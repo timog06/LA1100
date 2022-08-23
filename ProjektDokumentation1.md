@@ -18,11 +18,12 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |'muss'           |Funktion| Als Spieler möchte ich wissen, ob meine Zahl die richtige Zahl ist.|
+| 1    |'muss'           |Funktion| Als Spieler möchte ich wissen, ob meine Zahl die richtig oder falsch ist.|
 | 2    |'muss'           |Funktion| Als Spieler möchte ich mehrere Chancen bekommen, wenn meine Zahl falsch ist, damit es nicht immer eine neue Zahl generiert.|
-| 3    |'muss'           |Rand    | Als Spieler möchte ich den Zahlenbereich verändern können. |
-| 4    |'kann'           |Qualität| Die UI muss schön aussehen.      |
-| 5    |'muss'           |Rand    | Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
+| 3    |'muss'           |Rand    | Als Spieler möchte ich den Zahlenbereich verändern können. 
+| 4    |'muss'           |Rand    | Als Spieler möchte ich, dass das Programm eine Rückmeldung gibt, ob meine Zahl zu hoch oder zu tief ist.|
+| 5    |'muss'           |Funktion| Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
+
 
 ### 1.3 Testfälle
 
@@ -44,9 +45,13 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  |30.08.2022|Timo Goedertier| Das Programm kann eine Zufällige Zahl generieren zwischen 1 und 100.| 30' |
+| 1.B  |30.08.2022|Timo Goedertier| Das Programm macht eine Ausgabe ob die Zahl richtig oder falsch ist.| 30' |
+| 2.A  |30.08.2022|Timo Goedertier| Das Programm soll, wenn eine Zahl falsh geschätzt wird, dem Spieler eine weitere Chance geben.| 45' |
+| 3.A  |30.08.2022|Timo Goedertier| Der Spieler kann einen Zahlenbereich selber auswählen| 60' |
+| 4.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Rückmeldung geben, ob die Zahl des Spielers zu hoch oder zu tief ist.|45'|
+| 5.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Fehlermeldung Ausgeben, in der steht, dass man keine Buchstaben eingeben soll.|60'|
+ 
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
