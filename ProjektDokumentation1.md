@@ -60,7 +60,7 @@ Total:
 
 ## 3 Entscheiden
 
-Ich werde ein 
+Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurde, man einen Zahlenbereich eingeben muss im Still x - y. Dann generiert das Programm in diesem Zahlenbereich eine Zahl. Der Spieler muss dann eine Zahl, im Zahlenbereich, schätzen bis er die richtige Zahl findet. Jedes mal, wenn der Spieler die falsche Zahl schätzt gibt das Programm eine Rückmeldung, in der steht ob die geschätzte Zahl höher oder tiefer als die generierte Zahl ist. Sobald der Spieler die generierte Zahl findet fragt das Programm, ob der Spieler noch eine Runde spielen möchte.
 
 ## 4 Realisieren
 
