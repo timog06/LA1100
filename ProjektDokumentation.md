@@ -5,8 +5,8 @@ Inf22w Timo Goedertier
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.                |
-| 30.08.2022      | 0.0.2   | Ich habe mit dem Realisieren angefangen.           |
-|                 | 1.0.0   |                                                    |
+| 30.08.2022      | 1.0.0   | Ich habe mit dem Realisieren angefangen und das Programm funktioniert.|
+|                 |         |                                                    |
 
 ## 1 Informieren
 
