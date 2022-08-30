@@ -67,7 +67,12 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 2.A  |       |           |               |                   |
+| 3.A  |       |           |               |                   |
+| 4.A  |       |           |               |                   |
+| 5.A  |       |           |               |                   |
+| 6.A  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
