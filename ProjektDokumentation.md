@@ -4,8 +4,8 @@ Inf22w Timo Goedertier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.|
-| 30.08.2022      | 0.1.0   |                                                    |
+| 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.                |
+| 30.08.2022      | 0.0.2   | Ich habe mit dem Realisieren angefangen.           |
 |                 | 1.0.0   |                                                    |
 
 ## 1 Informieren
@@ -20,7 +20,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |'muss'           |Funktion| Als Spieler möchte ich wissen, ob meine Zahl die richtig oder falsch ist.|
 | 2    |'muss'           |Funktion| Als Spieler möchte ich mehrere Chancen bekommen, wenn meine Zahl falsch ist, damit es nicht immer eine neue Zahl generiert.|
-| 3    |'muss'           |Funktion| Als Spieler möchte ich den Zahlenbereich verändern können. 
+| 3    |'muss'           |Qualität| Als Spieler möchte ich den Zahlenbereich verändern können. 
 | 4    |'muss'           |Funktion| Als Spieler möchte ich, dass das Programm eine Rückmeldung gibt, ob meine Zahl zu hoch oder zu tief ist.|
 | 5    |'muss'           |Funktion| Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
 | 6    |'muss'           |Qualität| Als Spieler möchte ich gefragt werden, ob ich noch eine Runde Spielen möchte.|
@@ -47,7 +47,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |30.08.2022|Timo Goedertier| Das Programm kann eine Zufällige Zahl generieren zwischen 1 und 100.| 30' |
 | 1.B  |30.08.2022|Timo Goedertier| Das Programm macht eine Ausgabe ob die Zahl richtig oder falsch ist.| 30' |
-| 2.A  |30.08.2022|Timo Goedertier| Das Programm soll, wenn eine Zahl falsh geschätzt wird, dem Spieler eine weitere Chance geben.| 45' |
+| 2.A  |30.08.2022|Timo Goedertier| Das Programm soll, wenn eine Zahl falsch geschätzt wird, dem Spieler eine weitere Chance geben.| 45' |
 | 3.A  |30.08.2022|Timo Goedertier| Der Spieler kann einen Zahlenbereich selber auswählen| 60' |
 | 4.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Rückmeldung geben, ob die Zahl des Spielers zu hoch oder zu tief ist.|45'|
 | 5.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Fehlermeldung Ausgeben, in der steht, dass man keine Buchstaben eingeben soll.|60'|
@@ -66,13 +66,13 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| 1.B  |       |           |               |                   |
+| 1.A  |30.08.2022|Timo Goedertier|30'     |  5'               |
+| 1.B  |30.08.2022|Timo Goedertier|30'     |  10'              |
 | 2.A  |       |           |               |                   |
-| 3.A  |       |           |               |                   |
-| 4.A  |       |           |               |                   |
+| 3.A  |30.08.2022|Timo Goedertier|60'     |  5'               |
+| 4.A  |30.08.2022|Timo Goedertier|45'     |  30'              |
 | 5.A  |       |           |               |                   |
-| 6.A  |       |           |               |                   |
+| 6.A  |30.08.2022|Timo Goedertier|45'     |  60'              |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
