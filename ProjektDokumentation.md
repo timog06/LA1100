@@ -4,9 +4,9 @@ Inf22w Timo Goedertier
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 23.08.2022      | 0.0.1   | Ich habe mit IPERKA angefangen.|
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.|
+| 30.08.2022      | 0.1.0   |                                                    |
+|                 | 1.0.0   |                                                    |
 
 ## 1 Informieren
 
@@ -20,10 +20,10 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |'muss'           |Funktion| Als Spieler möchte ich wissen, ob meine Zahl die richtig oder falsch ist.|
 | 2    |'muss'           |Funktion| Als Spieler möchte ich mehrere Chancen bekommen, wenn meine Zahl falsch ist, damit es nicht immer eine neue Zahl generiert.|
-| 3    |'muss'           |Rand    | Als Spieler möchte ich den Zahlenbereich verändern können. 
-| 4    |'muss'           |Rand    | Als Spieler möchte ich, dass das Programm eine Rückmeldung gibt, ob meine Zahl zu hoch oder zu tief ist.|
+| 3    |'muss'           |Funktion| Als Spieler möchte ich den Zahlenbereich verändern können. 
+| 4    |'muss'           |Funktion| Als Spieler möchte ich, dass das Programm eine Rückmeldung gibt, ob meine Zahl zu hoch oder zu tief ist.|
 | 5    |'muss'           |Funktion| Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
-| 6    |'muss'           |Rand    | Als Spieler möchte ich gefragt werden, ob ich noch eine Runde Spielen möchte.|
+| 6    |'muss'           |Qualität| Als Spieler möchte ich gefragt werden, ob ich noch eine Runde Spielen möchte.|
 
 ### 1.3 Testfälle
 
