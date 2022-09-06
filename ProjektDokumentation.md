@@ -6,7 +6,7 @@ Inf22w Timo Goedertier
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.                |
 | 30.08.2022      | 1.0.0   | Ich habe mit dem Realisieren angefangen und das Programm funktioniert.|
-|                 |         |                                                    |
+|06.09.2022       | 1.1.0   |Ich habe das Projekt mit allen Funktionen abgeschlossen.|
 
 ## 1 Informieren
 
@@ -29,12 +29,12 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |Das Programm gibt keine Rückmeldung, ob die Zahl richtig oder falsch ist.|Der Spieler gibt eine Zahl ein und drückt enter.|Die Zahl ist richtig oder Falsch|
-| 2.1  |Das Programm endet das Spiel nachdem der Spieler eine Zahl eingegeben hat, egal ob richtig oder falsch.|Der Spieler gibt eine falsche Zahl ein und drückt enter|Das Programm erkennt die falsche Zahl und gibt dem Spieler eine weitere Chance|
-| 3.1  |Der Zahlenbereich ist fest bei 1-100|Sobald das Programm startet muss der Spieler einen Zahlenbereich eingeben im Stil x - y|Das Programm passt sich an den neuen Zahlenbereich an.|
-| 4.1  |Das Programm gibt nur an ob die eingegebene Zahl richtig oder falsch ist an|Der Spieler gibt eine falsche Zahl an und drückt enter|Das Programm prüft ob die eingegebene Zahl oberhalb oder unterhalb der generierten Zahl ist und gibt dazu eine Rückmeldung|
-| 5.1  |Das Programm stürzt ab|Der Spieler gibt Buchstaben ins programm ein|Das Programm erkennt dies und gibt eine Fehlermeldung beim Spieler ab.|gibt eine Rückmeldung zur richtigen Zahl ab und fragt den Spieler ob dieser noch eine Runde Spielen möchte.
-| 6.1  |Das Programm endet sobald der Spieler die richtige Zahl eingegeben hat.|Der Spieler gibt die richtige Zahl ein und drückt enter|Das Programm |
+| 1.1  |Das Programm gibt nur eine Zahl aus|Enter|Die Zahl wird mit richtig oder Falsch kommentiert|
+| 2.1  |Das Programm endet nach Ausgabe der Zahl|Enter|Das Programm erkennt die falsche Zahl und gibt dem Spieler eine weitere Chance|
+| 3.1  |Der Zahlenbereich ist nicht veränderbar|Eine Zahl eingeben und Enter drücken|Das Programm passt sich an den neuen Zahlenbereich an.|
+| 4.1  |Das Programm gibt nur eine Rückmeldung zu richtig oder falsch|Der Spieler gibt eine falsche Zahl an und drückt enter|Das Programm prüft ob die eingegebene Zahl oberhalb oder unterhalb der generierten Zahl ist und gibt dazu eine Rückmeldung|
+| 5.1  |Das Programm stürzt ab|Der Spieler gibt Buchstaben ins programm ein|Das Programm erkennt dies und gibt eine Fehlermeldung beim Spieler ab.
+| 6.1  |Das Programm endet sobald der Spieler die richtige Zahl eingegeben hat.|Der Spieler gibt die richtige Zahl ein und drückt enter|Das Programm gibt eine Rückmeldung zur richtigen Zahl ab und fragt den Spieler ob dieser noch eine Runde Spielen möchte. |
 
 ### 1.4 Diagramme
 
@@ -71,7 +71,7 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 | 2.A  |       |           |               |                   |
 | 3.A  |30.08.2022|Timo Goedertier|60'     |  5'               |
 | 4.A  |30.08.2022|Timo Goedertier|45'     |  30'              |
-| 5.A  |       |           |               |                   |
+| 5.A  |06.09.2022|           |               |                   |
 | 6.A  |30.08.2022|Timo Goedertier|45'     |  60'              |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
