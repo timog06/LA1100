@@ -5,8 +5,8 @@ Inf22w Timo Goedertier
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.                |
-| 30.08.2022      | 1.0.0   | Ich habe mit dem Realisieren angefangen und das Programm funktioniert.|
-|06.09.2022       | 1.1.0   |Ich habe das Projekt mit allen Funktionen abgeschlossen.|
+| 30.08.2022      | 0.1.0   | Ich habe mit dem Realisieren angefangen und das Programm funktioniert.|
+|06.09.2022       | 1.0.0   |Ich habe das Projekt mit allen Funktionen abgeschlossen.|
 
 ## 1 Informieren
 
@@ -82,8 +82,13 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |06.09.2022|          |Timo Goedertier|
+| 2.1  |06.09.2022|          |Timo Goedertier|
+| 3.1  |06.09.2022|          |Timo Goedertier|
+| 4.1  |06.09.2022|          |Timo Goedertier|
+| 5.1  |06.09.2022|          |Timo Goedertier|
+| 6.1  |06.09.2022|          |Timo Goedertier|
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
