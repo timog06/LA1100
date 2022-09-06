@@ -67,13 +67,13 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |30.08.2022|Timo Goedertier|30'     |  5'               |
-| 1.B  |30.08.2022|Timo Goedertier|30'     |  10'              |
-| 2.A  |06.09.2022|Timo Goedertier|45'     |  30'              |
-| 3.A  |30.08.2022|Timo Goedertier|60'     |  15'              |
-| 4.A  |30.08.2022|Timo Goedertier|45'     |  30'              |
-| 5.A  |06.09.2022|Timo Goedertier|60'     |  60'              |
-| 6.A  |30.08.2022|Timo Goedertier|45'     |  60'              |
+| 1.A  |30.08.2022|Timo Goedertier| 30'    |  5'               |
+| 1.B  |30.08.2022|Timo Goedertier| 30'    |  10'              |
+| 2.A  |06.09.2022|Timo Goedertier| 45'    |  30'              |
+| 3.A  |30.08.2022|Timo Goedertier| 60'    |  15'              |
+| 4.A  |30.08.2022|Timo Goedertier| 45'    |  30'              |
+| 5.A  |06.09.2022|Timo Goedertier| 60'    |  60'              |
+| 6.A  |30.08.2022|Timo Goedertier| 45'    |  60'              |
 
 ## 5 Kontrollieren
 
@@ -81,12 +81,12 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |06.09.2022|          |Timo Goedertier|
-| 2.1  |06.09.2022|          |Timo Goedertier|
-| 3.1  |06.09.2022|          |Timo Goedertier|
-| 4.1  |06.09.2022|          |Timo Goedertier|
-| 5.1  |06.09.2022|          |Timo Goedertier|
-| 6.1  |06.09.2022|          |Timo Goedertier|
+| 1.1  |       |          |        |
+| 2.1  |       |          |        |
+| 3.1  |       |          |        |
+| 4.1  |       |          |        |
+| 5.1  |       |          |        |
+| 6.1  |       |          |        |
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
