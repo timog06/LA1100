@@ -24,6 +24,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 4    |'muss'           |Funktion| Als Spieler möchte ich, dass das Programm eine Rückmeldung gibt, ob meine Zahl zu hoch oder zu tief ist.|
 | 5    |'muss'           |Funktion| Als Programmierer möchte ich dass der Spieler keine Buchstaben eingeben kann.|
 | 6    |'muss'           |Qualität| Als Spieler möchte ich gefragt werden, ob ich noch eine Runde Spielen möchte.|
+| 7    |'kann'           |Qualität| Als Spieler möchte ich, dass die Konsole-Applikation schön aussieht.|
 
 ### 1.3 Testfälle
 
@@ -74,8 +75,6 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 | 5.A  |06.09.2022|Timo Goedertier|60'     |  60'              |
 | 6.A  |30.08.2022|Timo Goedertier|45'     |  60'              |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
@@ -96,11 +95,9 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    | Ich gebe eine Zahl ein|Enter|Richtig oder Falsch|Das Programm schliesst sich|
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lernbericht]()
