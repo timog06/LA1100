@@ -70,7 +70,7 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 | 1.A  |30.08.2022|Timo Goedertier|30'     |  5'               |
 | 1.B  |30.08.2022|Timo Goedertier|30'     |  10'              |
 | 2.A  |06.09.2022|Timo Goedertier|45'     |  30'              |
-| 3.A  |30.08.2022|Timo Goedertier|60'     |  5'               |
+| 3.A  |30.08.2022|Timo Goedertier|60'     |  15'              |
 | 4.A  |30.08.2022|Timo Goedertier|45'     |  30'              |
 | 5.A  |06.09.2022|Timo Goedertier|60'     |  60'              |
 | 6.A  |30.08.2022|Timo Goedertier|45'     |  60'              |
