@@ -19,7 +19,7 @@ Ich habe am Anfang, bevor ich angefangen habe am Projekt zu programieren, ein PA
 
 Ich bin sehr stolz auf diesen Teil des Codes, denn ich habe die meiste Zeit reingesteckt und ich denke dies ist auch der komplizierteste Teil vom ganzen Code.
 
-```
+```c#
 while (num != guessint)
                     {
                         if (num < guessint && guessint <= diff && guessint >= 1)
