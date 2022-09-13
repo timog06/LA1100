@@ -6,8 +6,8 @@ Inf22w Timo Goedertier
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.                |
 | 30.08.2022      | 0.1.0   | Ich habe mit dem Realisieren angefangen und das Programm funktioniert.|
-| 06.09.2022      | 1.0.0   |Ich habe das Projekt mit allen Funktionen abgeschlossen.|
-| 13.09.2022      | 1.0.1   | |
+| 06.09.2022      | 1.0.0   | Ich habe das Projekt mit allen Funktionen abgeschlossen.|
+| 13.09.2022      | 1.0.1   | Lernbericht hinzugefügt.                           |
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -90,8 +90,7 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 | 5.1  |13.09.2022|Das Programm gibt "Ungültige Eingabe" aus, wenn der Spieler etwas reinschreibt, dass er nicht sollte. |Timo Goedertier|
 | 6.1  |13.09.2022|Das Programm fragt ob der Spieler noch eine Runde Spielen möchte.|Timo Goedertier|
 
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Alle Testfälle konnten ohne Probleme durchgeführt werden.
 
 ### 5.2 Exploratives Testen
 
