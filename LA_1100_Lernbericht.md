@@ -82,10 +82,12 @@ Mit dieser Funktion wird, hier jetzt bei ``string eingabe = Console.ReadLine();`
 
 ### Dies lief gut:
 -Ich konnte immer gut arbeiten
+
 -Ich habe immer alles was ich mir vorgenommen habe gelöst und fertig gemacht
 
 ### Dies lief nicht gut:
 -Ich habe mich manchmal von meinen Klassenkameraden ablenken lassen.
+
 -Ich musste immer wieder mal in gewisse Presentationen schauen, was welche Variabeln oder Funktionen machen.
 
 **VBV**: Ich muss alle Variabeln und Funktionen, die wir im Unterricht hatten, auswendig lernen.
