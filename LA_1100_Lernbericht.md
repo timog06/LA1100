@@ -14,8 +14,8 @@ Ich habe gelernt, in C# einen Zahlengenerator zu programmieren und diesen so zu 
 ## Beschreibung
 
 Ich habe am Anfang, bevor ich angefangen habe am Projekt zu programieren, ein PAP erstellt welches mir geholfen hat das ganze Programm zu schreiben und zu verstehen.
-![image](https://user-images.githubusercontent.com/110891995/186114469-ca121daf-4013-4dfc-82f9-98bb753c76b5.png)
 
+<img src="https://user-images.githubusercontent.com/110891995/186114469-ca121daf-4013-4dfc-82f9-98bb753c76b5.png" alt="Kreis Vorlage" width="600"/>
 
 Ich bin sehr stolz auf diesen Teil des Codes, denn ich habe die meiste Zeit reingesteckt und ich denke dies ist auch der komplizierteste Teil vom ganzen Code.
 
