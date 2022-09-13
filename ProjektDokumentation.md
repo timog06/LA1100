@@ -105,4 +105,4 @@ Das Programm stürzt ab|Das Programm läuft Fehlerfrei|
 
 ## 6 Auswerten
 
-[Lernbericht]()
+[Lernbericht](https://github.com/timog06/LA1100/blob/main/LA_1100_Lernbericht.md)
