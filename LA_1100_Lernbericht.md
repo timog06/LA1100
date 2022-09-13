@@ -9,7 +9,7 @@ In meinem Programm werden zufällig Zahlen- generiert, in einem Zahlenbereich, d
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelernt, in C# einen Zahlengenerator zu programmieren und diesen so zu gestalten, damit man daraus ein kleines Konsolen-Spiel hat.
 
 ## Beschreibung
 
@@ -43,7 +43,9 @@ while (num != guessint)
                         guessint = Convert.ToInt32(Console.ReadLine());
                     }
 ```
-Beim ersten "if" testet das Programm ob die eingegebene Zahl in der Variabel ``guessint`` grösser ist wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist.
+Beim ersten "if" guckt das Programm ob die eingegebene Zahl in der Variabel ``guessint`` grösser ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der fall ist wird gesagt, dass ``guessint`` zu gross ist.
+Beim zweiten "if" guckt das Programm ob ``guessint`` kleiner ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der fall ist wird gesagt, dass ``guessint`` zu klein ist.
+Beim dritten "if" guckt das Programm ob ``guessint`` im Zahlenbereich ``diff`` ist, wenn nicht dann wird gesagt dass die Zahl ungültig ist.
 
 ## Verifikation
 
