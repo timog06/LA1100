@@ -1,7 +1,7 @@
 # Lern-Bericht
 Timo Goedertier
-1. Tester: Tristan Evans
-2. Tester: Julius Burlet
+  1. Tester: Tristan Evans
+  2. Tester: Julius Burlet
 
 ## Einleitung
 
@@ -13,7 +13,7 @@ Ich habe gelernt, in C# einen Zahlengenerator zu programmieren und diesen so zu 
 
 ## Beschreibung
 
-### Ich habe am Anfang, bevor ich angefangen habe am Projekt zu programieren, ein PAP erstellt welches mir geholfen hat das ganze Programm zu schreiben und zu verstehen.
+### Ich habe am Anfang, bevor ich angefangen habe am Projekt zu programmieren, ein PAP erstellt, welches mir geholfen hat, das ganze Programm zu schreiben und zu verstehen.
 
 <img src="https://user-images.githubusercontent.com/110891995/186114469-ca121daf-4013-4dfc-82f9-98bb753c76b5.png" alt="Kreis Vorlage" width="600"/>
 
@@ -43,11 +43,16 @@ while (num != guessint)
                         guessint = Convert.ToInt32(Console.ReadLine());
                     }
 ```
-Beim ersten "if" guckt das Programm ob die eingegebene Zahl in der Variabel ``guessint`` grösser ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der fall ist wird gesagt, dass ``guessint`` zu gross ist.
 
-Beim zweiten "if" guckt das Programm ob ``guessint`` kleiner ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der fall ist wird gesagt, dass ``guessint`` zu klein ist.
+**Resultat des obigen Codes:**
 
-Beim dritten "if" guckt das Programm ob ``guessint`` im Zahlenbereich ``diff`` ist, wenn nicht dann wird gesagt dass die Zahl ungültig ist.
+![image](https://user-images.githubusercontent.com/110891995/189850044-0b970712-af6f-4b22-bbf2-c219761c3cbc.png)
+
+Beim ersten *if{}* guckt das Programm, ob die eingegebene Zahl in der Variabel ``guessint`` grösser ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der Fall ist, wird gesagt, dass ``guessint`` zu gross ist.
+
+Beim zweiten *if{}* guckt das Programm, ob ``guessint`` kleiner ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der Fall ist, wird gesagt, dass ``guessint`` zu klein ist.
+
+Beim dritten *if{}* guckt das Programm, ob ``guessint`` im Zahlenbereich ``diff`` ist, wenn nicht, dann wird gesagt, dass die Zahl ungültig ist.
 
 
 ### Die Funktion try{} catch{} hat mir auch sehr geholfen bei Eingaben, die man nicht eingeben soll.
@@ -63,16 +68,21 @@ Console.WriteLine("Ungültige Eingabe");
 Console.WriteLine("Sie müssen Ihren Namen eingeben als Buchstaben, keine anderen Charakter.");
 }
 ```
-Mit dieser Funktion wird, hier jetzt bei ``string eingabe = Console.ReadLine();`` ein Name eingegeben, welcher im string ``eingabe`` gespeichert wird und *try{} catch{}* guckt, ob die Eingabe ein string ist, ist die Eingabe **kein** string geht das Programm von try{} zu catch{} und im catch steht dann, warum kdie Eingabe falsch oder ungültig ist.
+Mit dieser Funktion wird, hier jetzt bei ``string eingabe = Console.ReadLine();`` ein Name eingegeben, welcher im string ``eingabe`` gespeichert wird und *try{} catch{}* guckt, ob die Eingabe ein string ist, ist die Eingabe **kein** string geht das Programm von *try{}* zu *catch{}* und im catch steht dann, warum die Eingabe falsch oder ungültig ist.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+-Das PAP hat mir sehr geholfen auf dem richtigen Pfad zu bleiben und nicht unnötiges und/oder zusätzliches, welches ich nicht brauche dazu zu programmieren.
+-Mit dem Einfügen eines Teils von meinem Code, wollte ich zeigen, dass ich gelernt habe mit *if{}* umzugehen und wie *if{}* funktioniert und dass ich in der Kondition vom *if{}* Zahlen-Vergleiche eingeben kann.
 
-# Reflektion zum Arbeitsprozess
+# Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+### Dies lief gut:
+-Ich konnte immer gut arbeiten
+-Ich habe immer alles was ich mir vorgenommen habe gelöst und fertig gemacht
 
-👎 und etwas, was nicht gut lief.
+### Dies lief nicht gut:
+-Ich habe mich manchmal von meinen Klassenkameraden ablenken lassen.
+-Ich musste immer wieder mal in gewisse Presentationen schauen, was welche Variabeln oder Funktionen machen.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich muss alle Variabeln und Funktionen, die wir im Unterricht hatten, auswendig lernen.
