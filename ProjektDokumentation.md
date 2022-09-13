@@ -6,8 +6,8 @@ Inf22w Timo Goedertier
 | ----- | ------- | ------------------------------------------------------------ |
 | 23.08.2022      | 0.0.1   | Ich habe mit dem Planen angefangen.                |
 | 30.08.2022      | 0.1.0   | Ich habe mit dem Realisieren angefangen und das Programm funktioniert.|
-|06.09.2022       | 1.0.0   |Ich habe das Projekt mit allen Funktionen abgeschlossen.|
-
+| 06.09.2022      | 1.0.0   |Ich habe das Projekt mit allen Funktionen abgeschlossen.|
+| 13.09.2022      | 1.0.1   | |
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
