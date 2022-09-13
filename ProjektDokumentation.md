@@ -97,7 +97,7 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    | Ich gebe eine Zahl ein|Enter|Richtig oder Falsch|Das Programm schliesst sich|
+|      |              |         |                   |                      |
 
 
 ## 6 Auswerten
