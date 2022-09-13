@@ -95,9 +95,12 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 ### 5.2 Exploratives Testen
 
+Tester: Tristan Evans
+
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-|      |              |         |                   |                      |
+| I    |Testen des Programmes|Negative Nummern, Buchstaben, zu grosse Zahlen, zu kleine Zahlen, richtige Zahl, Fehlermeldungen|
+Das Programm stürzt ab|Das Programm läuft Fehlerfrei|       
 
 
 ## 6 Auswerten
