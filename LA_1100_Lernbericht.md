@@ -73,7 +73,10 @@ Mit dieser Funktion wird, hier jetzt bei ``string eingabe = Console.ReadLine();`
 ## Verifikation
 
 -Das PAP hat mir sehr geholfen auf dem richtigen Pfad zu bleiben und nicht unnötiges und/oder zusätzliches, welches ich nicht brauche dazu zu programmieren.
+
 -Mit dem Einfügen eines Teils von meinem Code, wollte ich zeigen, dass ich gelernt habe mit *if{}* umzugehen und wie *if{}* funktioniert und dass ich in der Kondition vom *if{}* Zahlen-Vergleiche eingeben kann.
+
+-Ich habe gelernt *try{} catch{}* zu benutzen und wie diese Funktion genau funktioniert.
 
 # Reflexion zum Arbeitsprozess
 
