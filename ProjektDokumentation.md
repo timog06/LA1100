@@ -53,6 +53,7 @@ Mein Projekt soll ein Zahl Generator sein, in dem man die Zahlen erraten muss.
 | 4.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Rückmeldung geben, ob die Zahl des Spielers zu hoch oder zu tief ist.|45'|
 | 5.A  |30.08.2022|Timo Goedertier| Das Programm soll eine Fehlermeldung Ausgeben, in der steht, dass man keine Buchstaben eingeben soll.|60'|
 | 6.A  |30.08.2022|Timo Goedertier| Das Programm fragt den Spieler nach beenden der Runde, ob dieser noch eine Runde spielen möchte.|45'|
+| 7.A  |30.08.2022|Timo Goedertier| Das Programm enthält Farbe für schöneres Aussehen.| 20' | 
  
 Total: 
 `2` ╳ `1` ╳ `4` = 8 Arbeitspakete
@@ -74,6 +75,7 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 | 4.A  |30.08.2022|Timo Goedertier| 45'    |  30'              |
 | 5.A  |06.09.2022|Timo Goedertier| 60'    |  60'              |
 | 6.A  |30.08.2022|Timo Goedertier| 45'    |  60'              |
+| 7.A  |06.09.2022|Timo Goedertier| 20'    |  15'
 
 ## 5 Kontrollieren
 
@@ -81,12 +83,12 @@ Ich werde ein Programm schreiben, in dem man, sobald das Programm gestartet wurd
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| 2.1  |       |          |        |
-| 3.1  |       |          |        |
-| 4.1  |       |          |        |
-| 5.1  |       |          |        |
-| 6.1  |       |          |        |
+| 1.1  |13.09.2022|Das Programm sagt(in rot), wenn die Zahl falsch ist und wenn sie richtig ist(in grün).|Timo Goedertier|
+| 2.1  |13.09.2022|Das Programm sagt ob die Zahl zu klein/gross und gibt dann eine weitere Chance.|Timo Goedertier|
+| 3.1  |13.09.2022|Das Programm fragt am anfang den Spieler welchen Zahlenbereich er haben möchte.|Timo Goedertier|
+| 4.1  |13.09.2022|Das Programm sagt, wenn die Zahl falsch ist, ob die eingegebene Zahl zu gross oder zu klein ist.|Timo Goedertier|
+| 5.1  |13.09.2022|Das Programm gibt "Ungültige Eingabe" aus, wenn der Spieler etwas reinschreibt, dass er nicht sollte. |Timo Goedertier|
+| 6.1  |13.09.2022|Das Programm fragt ob der Spieler noch eine Runde Spielen möchte.|Timo Goedertier|
 
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
