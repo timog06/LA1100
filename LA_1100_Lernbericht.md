@@ -44,7 +44,9 @@ while (num != guessint)
                     }
 ```
 Beim ersten "if" guckt das Programm ob die eingegebene Zahl in der Variabel ``guessint`` grösser ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der fall ist wird gesagt, dass ``guessint`` zu gross ist.
+
 Beim zweiten "if" guckt das Programm ob ``guessint`` kleiner ist, wie die generierte Zahl in ``num`` und ob ``guessint`` innerhalb des gewählten Zahlenbereichs ``diff`` ist, wenn dies der fall ist wird gesagt, dass ``guessint`` zu klein ist.
+
 Beim dritten "if" guckt das Programm ob ``guessint`` im Zahlenbereich ``diff`` ist, wenn nicht dann wird gesagt dass die Zahl ungültig ist.
 
 ## Verifikation
